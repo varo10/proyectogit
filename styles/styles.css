@@ -110,7 +110,9 @@ h1,h2,h3,h4,h5,h6{
     font-size: 25px;
     margin: 5px 0 10px 0;
     text-transform: uppercase;
-    letter-spacing: 5px;
+    letter-spacing: 15px;
+    text-transform: lowercase;
+    font-weight: 350;
 }
 
 .infoContent .block h3 a {
