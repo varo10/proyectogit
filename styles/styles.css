@@ -134,7 +134,7 @@ h1,h2,h3,h4,h5,h6{
     padding: 10px 50px;
     border-radius: 30px;
     border: 7px solid #D74932;
-    background-color: green;
+    background-color: yellow;
     color: green;
     font-weight: 600;
     margin: 10px 0;
@@ -170,18 +170,18 @@ footer{
 }
 footer .left{
     float: left;
-    margin-left: 20px;
+    margin-left: 22px;
 }
 footer .right{
     float: right;
-    margin-right: 20px;
+    margin-right: 22px;
 }
 footer ul{
     list-style: none;
 }
 footer ul li{
     display: inline-block;
-    margin-right: 5px;
+    margin-right: 6px;
 }
 footer ul li a{
   color: #666;
