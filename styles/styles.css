@@ -132,8 +132,8 @@ h1,h2,h3,h4,h5,h6{
     padding: 10px 50px;
     border-radius: 30px;
     border: 2px solid #D74932;
-    background-color: transparent;
-    color: white;
+    background-color: green;
+    color: green;
     font-weight: 600;
     margin: 10px 0;
     display: inline-block;
